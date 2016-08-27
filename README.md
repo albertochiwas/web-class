@@ -1,5 +1,5 @@
 # Tópicos Avanzados de Programación Web
-  - This page: http://bit.ly/web-class
+  - This page: http://bit.ly/2c4gB4f
   - e-mail: alberto.chiwas@gmail.com
   - Twitter: [@beto0303](http://twitter.com/beto0303)
 
@@ -9,15 +9,14 @@ Diseñar y desarrollar aplicaciones para entorno basados en navegadores web usan
 
 ## Requisitos
 * Experiencia programación en algún lenguaje de programación importante, como Lenguaje C, C++, C#, Java, Python, Javascript, etc.
-* Recomendable tener acceso a una Computadora Apple Mac con OS X o Linux Ubuntu
-* Cuentas en Twitter, Github, Apple, Microsoft
-* Instalar software: editor Atom, Sublime, Komodo, Notepad++, Swift, Visual Studio, etc.
+* Cuentas registradas en KhanAcademy.com, Twitter.com, Github.com
+* Instalar software: editor Atom, Navegador Web con actualización reciente
 
 ## Horario
- Sábado 11-14 hrs.
+ Lunes 11-14 hrs, Sábados 11-14 hrs.
 
 ## Contenido
-### Parte I: Aplicaciones Web
+
 1. Entornos, herramientas, repositorios y librerías para desarrollo Web
 
 2. Programación web front-end con HTML5
@@ -47,7 +46,6 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
   * Referencia: [Especificación ECMAScript 5](http://www.ecma-international.org/ecma-262/5.1/) [PDF](http://www.ecmascript.org/docs.php)
 
 * ## Software
-* Portafolio [Evernote](http://evernote.com)
 * [Editor Atom](https://atom.io/)
 * [Processing 3](http://processing.org/download)
 * [Processing JS](http://processingjs.org/download)
